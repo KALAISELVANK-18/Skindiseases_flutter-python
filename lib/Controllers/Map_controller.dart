@@ -20,7 +20,7 @@ class MapController extends GetxController {
     try {
       isLoading(true);
       http.Response response = await http.get(Uri.parse(
-          'https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=dermatologist&location=$latitude,$longitude&radius=10000&type=hospital&key=AIzaSyBs6rceqDo0K1J2Mz2hGyyE5TThsEeN3QU'));
+          'https://maps.googleapis.com/maps/api/place/nearbysearch/json?keyword=dermatologist&location=$latitude,$longitude&radius=10000&type=hospital&key=Your_apikey_here'));
       if (response.statusCode == 200) {
         var result = jsonDecode(response.body);
         log(result.toString());
