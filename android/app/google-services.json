@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990778095292",
+    "project_id": "novalab-41e12",
+    "storage_bucket": "novalab-41e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990778095292:android:d81fb16817350e850502b9",
+        "android_client_info": {
+          "package_name": "com.example.novalabs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_AA_m6sSrud5FeI2knersP4Kly0iCg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
