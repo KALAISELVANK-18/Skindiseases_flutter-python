@@ -1,7 +1,3 @@
-#Novalabs
-
-Skin Disease Recognition Mobile App
-
 This Flutter-based mobile application empowers users to effortlessly detect and identify various skin diseases using the power of AI and machine learning. With a user-friendly interface and a range of robust features, this app is designed to enhance healthcare accessibility and skin health awareness.
 
 Key Features:
